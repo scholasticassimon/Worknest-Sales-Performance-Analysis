@@ -75,6 +75,7 @@ Monitor the impact of “Medium” and “High” discounts on profitability.
 - **Invest in High-Performing Regions**:
 Expand operations and marketing in the West and East regions to capitalize on strong sales.
 
-
+### Connect with me on
+[Linkedin](https://www.linkedin.com/in/scholasticasimon)
 
 
