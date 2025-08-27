@@ -1,18 +1,18 @@
 # WorkNest-Sales-Performance-Analysis
 ## Table of Content
-- [Introduction]
+- [Introduction](https://github.com/scholasticassimon/Worknest-Sales-Performance-Analysis/blob/main/README.md#introduction)
 
-- [Key Metrics]
+- [Key Metrics](https://github.com/scholasticassimon/Worknest-Sales-Performance-Analysis/blob/main/README.md#key-metrics)
 
-- [Skills Demonstrated]
+- [Skills Demonstrated](https://github.com/scholasticassimon/Worknest-Sales-Performance-Analysis/blob/main/README.md#skills-demonstrated)
 
-- [Visualization and Analysis]
+- [Visualization and Analysis](https://github.com/scholasticassimon/Worknest-Sales-Performance-Analysis/blob/main/README.md#visualization-and-analysis)
 
-- [Analysis]
+- [Analysis](https://github.com/scholasticassimon/Worknest-Sales-Performance-Analysis/blob/main/README.md#analysis)
 
-- [Conclusions]
+- [Conclusions](https://github.com/scholasticassimon/Worknest-Sales-Performance-Analysis/blob/main/README.md#conclusion)
 
-- [Recommendations]
+- [Recommendations](https://github.com/scholasticassimon/Worknest-Sales-Performance-Analysis/blob/main/README.md#recommendations)
 
 ## Introduction
 This project involved transforming a raw, unstructured sales dataset from WorkNest Supplies into a clean, analysis-ready format. The dataset captured transactional data across multiple regions, customer segments, and product categories. My objective was to clean, enrich, and analyze the data to uncover meaningful business insights and present them in a clear, interactive dashboard.
